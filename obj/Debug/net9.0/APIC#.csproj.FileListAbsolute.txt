@@ -31,3 +31,17 @@ C:\Users\Lucab\OneDrive\Desktop\Programação\APIC#\APIC#\obj\Debug\net9.0\refin
 C:\Users\Lucab\OneDrive\Desktop\Programação\APIC#\APIC#\obj\Debug\net9.0\APIC#.pdb
 C:\Users\Lucab\OneDrive\Desktop\Programação\APIC#\APIC#\obj\Debug\net9.0\APIC#.genruntimeconfig.cache
 C:\Users\Lucab\OneDrive\Desktop\Programação\APIC#\APIC#\obj\Debug\net9.0\ref\APIC#.dll
+C:\Users\Lucab\OneDrive\Desktop\Programação\APIC#\APIC#\obj\Debug\net9.0\APIC#.sourcelink.json
+C:\Users\Lucab\OneDrive\Desktop\Programação\APIC#\APIC#\bin\Debug\net9.0\Namotion.Reflection.dll
+C:\Users\Lucab\OneDrive\Desktop\Programação\APIC#\APIC#\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\Lucab\OneDrive\Desktop\Programação\APIC#\APIC#\bin\Debug\net9.0\NJsonSchema.dll
+C:\Users\Lucab\OneDrive\Desktop\Programação\APIC#\APIC#\bin\Debug\net9.0\NJsonSchema.Annotations.dll
+C:\Users\Lucab\OneDrive\Desktop\Programação\APIC#\APIC#\bin\Debug\net9.0\NJsonSchema.NewtonsoftJson.dll
+C:\Users\Lucab\OneDrive\Desktop\Programação\APIC#\APIC#\bin\Debug\net9.0\NJsonSchema.Yaml.dll
+C:\Users\Lucab\OneDrive\Desktop\Programação\APIC#\APIC#\bin\Debug\net9.0\NSwag.Annotations.dll
+C:\Users\Lucab\OneDrive\Desktop\Programação\APIC#\APIC#\bin\Debug\net9.0\NSwag.AspNetCore.dll
+C:\Users\Lucab\OneDrive\Desktop\Programação\APIC#\APIC#\bin\Debug\net9.0\NSwag.Core.dll
+C:\Users\Lucab\OneDrive\Desktop\Programação\APIC#\APIC#\bin\Debug\net9.0\NSwag.Core.Yaml.dll
+C:\Users\Lucab\OneDrive\Desktop\Programação\APIC#\APIC#\bin\Debug\net9.0\NSwag.Generation.dll
+C:\Users\Lucab\OneDrive\Desktop\Programação\APIC#\APIC#\bin\Debug\net9.0\NSwag.Generation.AspNetCore.dll
+C:\Users\Lucab\OneDrive\Desktop\Programação\APIC#\APIC#\bin\Debug\net9.0\YamlDotNet.dll
